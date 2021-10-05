@@ -1,7 +1,7 @@
 var myGamePiece;
 
 function startGame() {
-    myGamePiece = new component(150, 150, "pikachu.jpeg", 10, 120, "image");
+    myGamePiece = new component(300, 300, "pikachu.jpeg", 10, 120, "image");
     myGameArea.start();
 }
 
